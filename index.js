@@ -3,7 +3,7 @@ const axios = require('axios');
 const http = require('http');
 
 // ================= CONFIG =================
-const BOT_TOKEN = const BOT_TOKEN = process.env.BOT_TOKEN;
+const BOT_TOKEN = 8783085862:AAEUpJnBFfJvvhsPu6ahbSEol8D9g-_KiPw';
 const OWNER_USERNAME = '@MK_BRO_1';
 
 const WINGO_API_URL =
